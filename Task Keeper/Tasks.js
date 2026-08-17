@@ -5,7 +5,7 @@ document.querySelector(".adding").onkeypress = function(event){
         let img = document.createElement("img");
         let span = document.createElement("span");
         span.innerHTML = document.querySelector(".adding").value;
-        img.setAttribute("src", "./garbage.svg")
+        img.setAttribute("src", "./Trash.svg")
         li.appendChild(span);
         li.appendChild(img);
         document.querySelector(".uh").appendChild(li);
