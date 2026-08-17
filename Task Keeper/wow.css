@@ -100,12 +100,6 @@ h1 {
     transition: 2s;
 }
 
-.button:hover {
-    cursor: pointer;
-    background: url(./3dsaulcover.jpg);
-    background-size: cover;
-}
-
 .ti_eighty_four_ce {
     position: fixed;
     bottom: 5px;
